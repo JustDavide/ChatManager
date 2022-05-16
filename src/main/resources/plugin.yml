@@ -1,0 +1,20 @@
+name: RoleCore
+version: '${project.version}'
+main: me.dovide.rolecore.Main
+api-version: 1.17
+authors: [ Dovide ]
+description: Core Custom Roleplay
+depend: [PlaceholderAPI]
+commands:
+  manganello:
+    description: Prendi Il Manganello Prendi
+  azione:
+    aliases: a
+  bisbiglio:
+    description: Bisbiglia
+  urlo:
+    description: Urla
+  invsee:
+    description: Controlla
+  invaccept:
+  invrefuse:
